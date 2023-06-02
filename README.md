@@ -18,8 +18,8 @@ Aqui estão algumas ideias para você começar:
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=d-bener&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-bener&theme=highcontrast"/>
 </div>
-##
-  
+
+##  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -29,7 +29,5 @@ Aqui estão algumas ideias para você começar:
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   
-    
-  
-  </div>
+</div>
   
